@@ -6,7 +6,7 @@
 
 25.10.20 Servlet, Thymleaf ([상세 내역 링크](https://github.com/100-hours-a-week/jayden-til/blob/main/OCT/2025-10-20.md))
 
-25.10.21 세부 주제 3 작성 (상세 내역 링크)
+25.10.21 Spring Test, 과제 작성 ([상세 내역 링크](https://github.com/100-hours-a-week/jayden-til/blob/main/OCT/2025-10-21.md))
 
 25.10.22 세부 주제 2 작성 (상세 내역 링크)
 
